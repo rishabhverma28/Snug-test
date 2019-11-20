@@ -9,8 +9,8 @@ Find the number of days between 2 given dates.
 
 ## Steps to run the Golang code
 - Clone the repository.
-- Run `./datediff [date1] - [date2]`, replacing `[date1]` and `[date2]` whith the start and end dates on the terminal.
 - To build the code run `go build datediff.go`
+- Run `./datediff [date1] - [date2]`, replacing `[date1]` and `[date2]` whith the start and end dates on the terminal.
 - To see the Test Coverage results, open `cover.html` in any browser.
 - To regenerate the Test coverage report, run the following commands:
 
